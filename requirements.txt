@@ -1,2 +1,2 @@
-pip install flask 
-pip install flask-logingit push
+flask/bin/pip install flask
+flask/bin/pip install flask-login
